@@ -1,0 +1,96 @@
+version: '3'
+
+services: 
+ 
+  # Microservices
+  extractor:
+    build: .
+    command: >
+      bash -c "pip install -r requirements.txt -q
+      && python3 services/extractor/app.py"
+    volumes:
+      - .:/code
+      - shared_store:/data/extracted/
+
+  transformer:
+    build: .
+    command: >
+      bash -c "pip install -r requirements.txt -q
+      && python3 services/transformer/app.py"
+    volumes:
+      - .:/code
+      - shared_store:/data/extracted/
+      - shared_store:/data/transformed/
+
+  loader:
+    build: .
+    command: >
+      bash -c "pip install -r requirements.txt -q
+      && python3 services/loader/app.py"
+    volumes:
+      - .:/code
+      - shared_store:/data/transformed/
+
+  # Message Broker
+  rabbitmq:
+    image: rabbitmq
+    ports:
+      - "5672:5672" 
+
+  # Database
+  mysql:
+    image: mysql
+    ports:
+      - "3306:3306"     
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+
+  #FTP DataSources
+  ftp_files_ds:
+    image: stilliard/pure-ftpd:hardened
+    ports:
+      - "21:21"
+      - "30000-30050:30000-30050"
+    volumes:
+      - "./data_points:/home/username/"
+    environment:
+      PUBLICHOST: "ftp_files_ds"
+      FTP_USER_NAME: username
+      FTP_USER_PASS: mypass
+      FTP_USER_HOME: /home/username
+      FTP_MAX_CLIENTS : 50
+      FTP_MAX_CONNECTIONS : 50
+      FTP_PASSIVE_PORTS: 30000:30050
+    restart: always
+
+  # Lookup Database
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+
+  # Lookup Database Admin
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example    
+
+  # Cache
+  redis:
+    image: redis
+    ports:
+      - 6379:6379
+
+
+
+#Shared File System
+volumes:
+  shared_store:

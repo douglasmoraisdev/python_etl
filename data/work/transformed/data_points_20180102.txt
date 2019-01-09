@@ -1,0 +1,4 @@
+-30.06355608;-51.2331063;515;Avenida Padre Cacique;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90110-150;20180102
+-30.04208508;-51.25745683;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;;20180102
+-30.03152967;-51.20818753;1446;Rua Ramiro Barcelos;Rio Branco;Porto Alegre;State of Rio Grande do Sul;Brazil;90420-070;20180102
+-30.01863604;-51.19509983;262;Avenida América;Auxiliadora;Porto Alegre;State of Rio Grande do Sul;Brazil;90440-020;20180102

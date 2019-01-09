@@ -1,0 +1,9 @@
+Latitude: 30°02′59″S   -30.04982864
+Longitude: 51°12′05″W   -51.20150245
+Distance: 2.2959 km  Bearing: 137.352°
+Latitude: 30°04′03″S   -30.06761588
+Longitude: 51°14′23″W   -51.23976111
+Distance: 4.2397 km  Bearing: 210.121°
+Latitude: 30°03′21″S   -30.05596474
+Longitude: 51°10′22″W   -51.17286827
+Distance: 4.9213 km  Bearing: 118.814°

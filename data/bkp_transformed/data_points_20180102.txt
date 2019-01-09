@@ -1,0 +1,214 @@
+-30.06355608;-51.2331063;515;Avenida Padre Cacique;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90110-150
+-30.04208508;-51.25745683;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.03152967;-51.20818753;1446;Rua Ramiro Barcelos;Rio Branco;Porto Alegre;State of Rio Grande do Sul;Brazil;90420-070
+-30.01863604;-51.19509983;262;Avenida América;Auxiliadora;Porto Alegre;State of Rio Grande do Sul;Brazil;90440-020
+-30.07117501;-51.24203618;4946;Avenida Edvaldo Pereira Paiva;Praia de Belas;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.01766564;-51.26309605;450;Rua Mexiana;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-140
+-30.03953495;-51.24244836;268;Avenida Edvaldo Pereira Paiva;Praia de Belas;Porto Alegre;Rio Grande do Sul;Brazil;90010-281
+-30.04776623;-51.19082785;30;Rua Artigas;Petrópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;90690-230
+-30.05026633;-51.23414341;2423;Avenida Beira Rio;Praia de Belas;Porto Alegre;Rio Grande do Sul;Brazil;90110-150
+-29.99169173;-51.22215253;51;Rua Nossa Senhora Aparecida;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-400
+-30.04132349;-51.26787905;;;;;;;
+-30.05341803;-51.18583888;30;Rua Dinamica;Jardim Botânico;Porto Alegre;State of Rio Grande do Sul;Brazil;90690-190
+-30.05887001;-51.23100554;4213;Avenida Borges de Medeiros;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90020-021
+-30.0000551;-51.20736181;7145;Avenida Mauá;Marcilio Dias;Porto Alegre;State of Rio Grande do Sul;Brazil;90230-210
+-30.0522143;-51.25141665;;;;;;;
+-30.0656827;-51.238158;4239;Avenida Edvaldo Pereira Paiva;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90810-240
+-30.05574724;-51.26198648;;;;;;;
+-30.03197746;-51.19196556;40;Rua General Oscár Miranda;Bela Vista;Porto Alegre;Rio Grande do Sul;Brazil;90440-080
+-30.02037698;-51.17790971;411;Rua Doutor Alfredo Matias Wiltgen;Boa Vista;Porto Alegre;State of Rio Grande do Sul;Brazil;90480-110
+-30.03680744;-51.24121034;200;Avenida Presidente João Goulart;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90010-430
+-30.04844249;-51.24540241;;;;;;;
+-30.01904974;-51.20735485;64;Rua Emancipação;Floresta;Porto Alegre;State of Rio Grande do Sul;Brazil;90220-080
+-30.06904449;-51.21514414;25;Rua Professor Manoel Lobato;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90880-311
+-30.00930695;-51.25534257;2990;Rua dos Pescadores;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.04618079;-51.18826417;290;Rua Borges do Canto;Petrópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;90670-070
+-30.02107709;-51.24780217;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.07447642;-51.21914296;31;Acesso das Margaridas;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90843-441
+-30.03233494;-51.20458209;419;Praça Silvio Ughini;Rio Branco;Porto Alegre;State of Rio Grande do Sul;Brazil;90050-140
+-30.05145559;-51.20554879;4;Praça Jayme Telles;Santana;Porto Alegre;State of Rio Grande do Sul;Brazil;90650-010
+-30.03506026;-51.25916386;16;Rua Marinheiros;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-110
+-30.01497912;-51.21558933;1360;Avenida Presidente Castelo Branco;Cais do Porto;Porto Alegre;Rio Grande do Sul;Brazil;90230-270
+-30.01742408;-51.21391713;9;Rua Porto Feliz;Marcilio Dias;Porto Alegre;State of Rio Grande do Sul;Brazil;90220-330
+-30.01757847;-51.1811804;983;Rua Coronel Feijó;Higienópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;90520-270
+-30.04246339;-51.21127184;312;Rua Laurindo;Santana;Porto Alegre;State of Rio Grande do Sul;Brazil;90040-120
+-30.05873133;-51.26042534;;;;;;;
+-30.04854904;-51.19957855;647;Rua São Francisco;Santana;Porto Alegre;State of Rio Grande do Sul;Brazil;90610-010
+-30.01094349;-51.24016926;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.02085829;-51.23057835;1168;Avenida Mauá;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90010-110
+-30.02460753;-51.1857063;293;Rua Pedro Chaves Barcelos;Mont'Serrat;Porto Alegre;Rio Grande do Sul;Brazil;90480-030
+-30.06151562;-51.17944692;17;Rua E Vila Sao Judas Tadeu;Partenon;Porto Alegre;State of Rio Grande do Sul;Brazil;90610-040
+-30.07706118;-51.22422123;29;Acesso 80;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90840-808
+-30.06751143;-51.20168697;165;Rua Martim Minaberry;Partenon;Porto Alegre;State of Rio Grande do Sul;Brazil;90660-160
+-30.03662125;-51.24414265;198;Avenida Presidente João Goulart;Praia de Belas;Porto Alegre;Rio Grande do Sul;Brazil;90050-240
+-29.99864562;-51.20223785;314;Avenida Sertório;Navegantes;Porto Alegre;State of Rio Grande do Sul;Brazil;90250-370
+-30.00032913;-51.21660965;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.04000976;-51.20765215;2338;Rua Ramiro Barcelos;Santa Cecilia;Porto Alegre;Rio Grande do Sul;Brazil;90035-211
+-30.0670264;-51.22037851;319;Rua Cleveland;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90850-240
+-30.07350916;-51.21626519;280;Rua Oscar Tollens;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90843-442
+-30.05515563;-51.26261124;;;;;;;
+-30.06156373;-51.23662122;2778;Avenida Edvaldo Pereira Paiva;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90110-150
+-30.0567747;-51.23728497;3330;Avenida Edvaldo Pereira Paiva;Praia de Belas;Porto Alegre;Rio Grande do Sul;Brazil;90110-150
+-30.07444829;-51.1984127;691;Rua Pedro Boticário;Glória;Porto Alegre;State of Rio Grande do Sul;Brazil;90660-070
+-29.9939049;-51.22550763;2042;Rua João Ignácio da Oliveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-390
+-30.03988424;-51.17367305;78;Avenida Senador Tarso Dutra;Petrópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;91310-010
+-30.06608837;-51.24689578;;;;;;;
+-30.02112025;-51.19308479;303;Rua Mata Bacelar;Auxiliadora;Porto Alegre;State of Rio Grande do Sul;Brazil;90560-060
+-30.04013153;-51.1969291;1126;Avenida Protásio Alves;Alto Petrópolis;Porto Alegre;Rio Grande do Sul;Brazil;90420-041
+-30.03381251;-51.19964171;1235;Rua Vasco da Gama;Rio Branco;Porto Alegre;State of Rio Grande do Sul;Brazil;90420-121
+-29.99160284;-51.20747717;344;Rua João Moreira Maciel;Cais do Porto;Porto Alegre;Rio Grande do Sul;Brazil;90250-680
+-30.01325311;-51.23644041;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.01526163;-51.17740842;166;Rua Valentim Vicentini;Passo d'Areia;Porto Alegre;State of Rio Grande do Sul;Brazil;90520-190
+-30.07664118;-51.22728151;398;⛉ Rua Dona Malvina;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90810-135
+-30.02409939;-51.18015107;521;Avenida Engenheiro Alfredo Corrêa Daudt;Boa Vista;Porto Alegre;State of Rio Grande do Sul;Brazil;90480-130
+-30.0412541;-51.23472108;156;Rua Otávio Francisco Caruso da Rocha;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;
+-30.05557165;-51.2014497;317;Rua Luiz de Camões;Santo Antônio;Porto Alegre;State of Rio Grande do Sul;Brazil;90090-100
+-30.0582646;-51.19836657;491;Rua Paulino Chaves;Santo Antônio;Porto Alegre;State of Rio Grande do Sul;Brazil;90640-210
+-30.04743556;-51.21174198;2005;Avenida João Pessoa;Azenha;Porto Alegre;State of Rio Grande do Sul;Brazil;90040-400
+-29.99983665;-51.23945205;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.03271911;-51.24213635;2023;Avenida Mauá;Cais do Porto;Porto Alegre;Rio Grande do Sul;Brazil;90010-283
+-30.00155782;-51.2042256;231;Rua Doutor João Inácio;Navegantes;Porto Alegre;State of Rio Grande do Sul;Brazil;90230-180
+-30.03114781;-51.25122645;12;Rua Marinheiros;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-110
+-30.00880521;-51.25478606;2151;Rua dos Pescadores;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.05837435;-51.22506094;1648;Rua Mucio Teixeira;Menino Deus;Porto Alegre;State of Rio Grande do Sul;Brazil;90040-220
+-30.00332602;-51.20551451;163;Avenida Cairú;Navegantes;Porto Alegre;State of Rio Grande do Sul;Brazil;90230-230
+-30.06355217;-51.22647971;521;Rua Barão do Cerro Largo;Menino Deus;Porto Alegre;State of Rio Grande do Sul;Brazil;90850-150
+-30.04896246;-51.22890845;2467;Avenida Borges de Medeiros;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90160-001
+-30.02458513;-51.20295843;300;Rua Padre Chagas;Moinhos de Vento;Porto Alegre;Rio Grande do Sul;Brazil;90570-050
+-30.0459803;-51.25433368;;;;;;;
+-30.04141392;-51.24722901;;;;;;;
+-30.04816439;-51.25848537;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.01074752;-51.18489586;856;Rua Honório Silveira Dias;São João;Porto Alegre;State of Rio Grande do Sul;Brazil;90550-031
+-30.07430938;-51.24096111;8;Avenida Taquari;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90810-250
+-30.00926772;-51.21504893;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.0477014;-51.17488892;303;Rua Engenheiro Antônio Carlos Tibiriçá;Petrópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;90690-040
+-30.05722576;-51.17496048;6273;Avenida Ipiranga;Partenon;Porto Alegre;State of Rio Grande do Sul;Brazil;90610-100
+-30.04226044;-51.19758662;1512;Rua Santa Cecília;Santa Cecilia;Porto Alegre;Rio Grande do Sul;Brazil;90420-040
+-30.05350251;-51.24172512;;;;;;;
+-30.02709826;-51.21307829;;;Floresta;Porto Alegre;State of Rio Grande do Sul;Brazil;90035-160
+-30.07587702;-51.21944582;290;Avenida Joracy Camargo;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90840-480
+-30.00397094;-51.22487643;351;Rua João Ignácio da Oliveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-390
+-29.99945099;-51.18992272;616;Rua 18 de Novembro;São João;Porto Alegre;State of Rio Grande do Sul;Brazil;90240-210
+-30.02328311;-51.19584775;1;Rua Felipe Neri;Auxiliadora;Porto Alegre;State of Rio Grande do Sul;Brazil;90540-160
+-30.03128781;-51.23622541;386;Rua 7 de Setembro;Centro Histórico;Porto Alegre;State of Rio Grande do Sul;Brazil;90010-180
+-30.02814372;-51.22295008;377;Avenida Alberto Bins;Centro Histórico;Porto Alegre;State of Rio Grande do Sul;Brazil;90020-160
+-30.03804287;-51.2678474;;;;;;;
+-30.05237268;-51.24128091;;;;;;;
+-30.02445699;-51.23104455;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.0046983;-51.21137289;6543;Avenida Mauá;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90230-120
+-30.00539065;-51.20299854;271;Avenida São Paulo;São Geraldo;Porto Alegre;State of Rio Grande do Sul;Brazil;90230-161
+-30.01810034;-51.25988793;1570;Avenida Presidente Vargas;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-000
+-30.03611749;-51.21741451;;;Farroupilha;Porto Alegre;Rio Grande do Sul;Brazil;90010-150
+-30.03085511;-51.25530945;318;Rua Marinheiros;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-110
+-30.02747546;-51.18413436;145;Rua Furriel Luíz Antônio de Vargas;Mont'Serrat;Porto Alegre;Rio Grande do Sul;Brazil;90470-130
+-30.04577956;-51.17572112;2510;Avenida Senador Tarso Dutra;Petrópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;90690-140
+-30.04029565;-51.25787483;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.03044151;-51.18606103;919;Rua Comendador Rheingantz;Bela Vista;Porto Alegre;Rio Grande do Sul;Brazil;90450-180
+-30.02454734;-51.24195902;125;Avenida Mauá;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90010-110
+-30.02611325;-51.17084911;296;Avenida Frei Caneca;Boa Vista;Porto Alegre;State of Rio Grande do Sul;Brazil;91340-370
+-30.0590207;-51.20452591;607;Rua Teixeira de Freitas;Santo Antônio;Porto Alegre;State of Rio Grande do Sul;Brazil;90640-150
+-30.06642192;-51.19775253;2791;Rua Barão do Amazonas;Partenon;Porto Alegre;State of Rio Grande do Sul;Brazil;90680-658
+-30.00892002;-51.24279499;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-29.99374357;-51.2133433;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.05498101;-51.20488952;235;Rua Doutor Júlio Bocaccio;Santo Antônio;Porto Alegre;State of Rio Grande do Sul;Brazil;90640-020
+-30.00930223;-51.20214611;2667;Avenida Farrapos;São Geraldo;Porto Alegre;State of Rio Grande do Sul;Brazil;90010-140
+-30.00502479;-51.2364938;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.01382581;-51.22556915;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.03025191;-51.19380936;870;Avenida Coronel Lucas de Oliveira;Bela Vista;Porto Alegre;Rio Grande do Sul;Brazil;90440-130
+-30.01414817;-51.25793701;1834;Rua Nossa Senho da Boa Viagem;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-140
+-30.02756004;-51.22829737;71;Avenida Borges de Medeiros;Centro Histórico;Porto Alegre;State of Rio Grande do Sul;Brazil;91550-540
+-30.00372147;-51.23793927;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.02425683;-51.26808106;294;Avenida Martinho Poeta;;Eldorado do Sul;Rio Grande do Sul;Brazil;92990-000
+-30.02927007;-51.1973856;792;Rua Dona Laura;Rio Branco;Porto Alegre;State of Rio Grande do Sul;Brazil;90420-010
+-30.0056011;-51.21050487;6457;Avenida Mauá;Cais do Porto;Porto Alegre;Rio Grande do Sul;Brazil;90230-120
+-30.03859316;-51.231233;266;Rua Antônio Klinger Filho;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90010-340
+-30.03584078;-51.19316129;185;Rua Barão de Ubá;Bela Vista;Porto Alegre;Rio Grande do Sul;Brazil;90440-100
+-30.01562261;-51.23674893;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.02839064;-51.22201883;460;Avenida Alberto Bins;Centro Histórico;Porto Alegre;State of Rio Grande do Sul;Brazil;90030-120
+-30.03523115;-51.21890221;85;Rua Engenheiro Luiz Englert;Farroupilha;Porto Alegre;Rio Grande do Sul;Brazil;90040-040
+-30.05224382;-51.22985777;2880;Avenida Borges de Medeiros;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90130-130
+-30.0687195;-51.24986142;;;;;;;
+-30.02980344;-51.17765741;153;Alameda Emílio de Menezes;Três Figueiras;Porto Alegre;State of Rio Grande do Sul;Brazil;91340-360
+-30.05531359;-51.24818572;;;;;;;
+-30.00055655;-51.21015882;5330;Avenida Mauá;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90030-001
+-30.03776366;-51.22134846;174;Rua da República;Cidade Baixa;Porto Alegre;Rio Grande do Sul;Brazil;90050-320
+-30.05701757;-51.22834928;268;Rua Barbedo;Menino Deus;Porto Alegre;State of Rio Grande do Sul;Brazil;90110-320
+-30.0025353;-51.2018172;496;Avenida França;Navegantes;Porto Alegre;State of Rio Grande do Sul;Brazil;90230-161
+-30.01200201;-51.1764475;5;Rua João Moreira Alberto;Passo d'Areia;Porto Alegre;State of Rio Grande do Sul;Brazil;90520-150
+-30.00403283;-51.22184685;569;Rua João Ignácio da Oliveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-390
+-30.06196109;-51.189354;26;Rua Pedro Velho;Partenon;Porto Alegre;State of Rio Grande do Sul;Brazil;90680-290
+-29.99702406;-51.232491;1073;Rua João Inácio da Silveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.01676669;-51.24739682;1351;Rua Nossa Senho da Boa Viagem;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.0165809;-51.25547532;1566;Rua Nossa Senho da Boa Viagem;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.05877011;-51.25759244;;;;;;;
+-30.04977843;-51.22919125;2500;Avenida Borges de Medeiros;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90110-240
+-30.05756793;-51.21603602;182;Rua Damasco;Azenha;Porto Alegre;State of Rio Grande do Sul;Brazil;90880-450
+-30.00236109;-51.22639577;485;Rua João Ignácio da Oliveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-390
+-30.02733689;-51.19366251;242;Rua Anita Garibaldi;Mont'Serrat;Porto Alegre;Rio Grande do Sul;Brazil;90440-001
+-30.02149924;-51.17602114;527;Rua Frei Henrique Golland Trindade;Boa Vista;Porto Alegre;State of Rio Grande do Sul;Brazil;90480-070
+-30.02990006;-51.23323204;744;Rua 7 de Setembro;Centro Histórico;Porto Alegre;State of Rio Grande do Sul;Brazil;90010-191
+-30.03699201;-51.23722788;626;Rua General Vasco Alves;Centro Histórico;Porto Alegre;State of Rio Grande do Sul;Brazil;90010-415
+-30.03423838;-51.17711576;355;Avenida Luiz Manoel Gonzaga;Três Figueiras;Porto Alegre;State of Rio Grande do Sul;Brazil;90470-280
+-30.02487026;-51.25017761;504;Rua Nossa Senho da Boa Viagem;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-29.9970987;-51.22729216;1059;Rua João Inácio da Silveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-390
+-30.04186271;-51.19086514;69;Rua Amélia Téles;Petrópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;90460-090
+-30.03226922;-51.24423916;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.00234678;-51.21947722;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.05077735;-51.23426934;2428;Avenida Beira Rio;Praia de Belas;Porto Alegre;Rio Grande do Sul;Brazil;90110-150
+-30.02978769;-51.22118902;54;Avenida Independência;Centro Histórico;Porto Alegre;State of Rio Grande do Sul;Brazil;90030-040
+-30.04157915;-51.26496703;;;;;;;
+-30.01877816;-51.19513762;265;Avenida América;Auxiliadora;Porto Alegre;State of Rio Grande do Sul;Brazil;90440-020
+-30.06952063;-51.23291426;69;Alameda Jacarandá;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90840-156
+-30.00277886;-51.22597767;485;Rua João Ignácio da Oliveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-390
+-30.03024771;-51.20675671;373;Rua Castro Alves;Rio Branco;Porto Alegre;State of Rio Grande do Sul;Brazil;90430-090
+-30.0074752;-51.20402204;516;Avenida São Paulo;São Geraldo;Porto Alegre;State of Rio Grande do Sul;Brazil;90230-161
+-30.03484253;-51.18453989;63;Rua Sioma Breitman;Petrópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;90470-180
+-30.00886782;-51.22517363;1;Rua João Ignácio da Oliveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-390
+-30.07038209;-51.2355237;64;Rua Doná Antônia;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90810-240
+-30.02466008;-51.2541366;696;Rua Nossa Senho da Boa Viagem;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-140
+-30.00629064;-51.17845992;273;Avenida General Emílio Lúcio Esteves;Santa Maria Goretti;Porto Alegre;Rio Grande do Sul;Brazil;91030-290
+-30.02232193;-51.2047945;375;Rua Santo Inácio;Moinhos de Vento;Porto Alegre;Rio Grande do Sul;Brazil;90570-090
+-30.02584632;-51.17353624;1;Rua Professor Romanó Reif;Boa Vista;Porto Alegre;State of Rio Grande do Sul;Brazil;91340-420
+-30.07762624;-51.20692798;501;Rua Professor Carvalho de Freitas;Teresópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;91720-170
+-30.06821957;-51.23549669;1076;Avenida Padre Cacique;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90810-240
+-30.05100915;-51.19249185;802;Rua Gonçalves Lêdo;Jardim Botânico;Porto Alegre;State of Rio Grande do Sul;Brazil;90670-040
+-30.01206553;-51.25150481;1789;Rua Nossa Senho da Boa Viagem;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-140
+-30.05564862;-51.26000423;;;;;;;
+-30.0683285;-51.2515185;;;;;;;
+-30.00218232;-51.24259851;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.07154007;-51.23925082;1586;Avenida Padre Cacique;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90840-690
+-30.01287812;-51.26070542;230;Rua Capitão Coelho;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-040
+-30.02580008;-51.19022979;421;Rua Silva Jardim;Mont'Serrat;Porto Alegre;Rio Grande do Sul;Brazil;90450-071
+-30.00573227;-51.18236693;295;Rua 25 de Julho;Santa Maria Goretti;Porto Alegre;Rio Grande do Sul;Brazil;91030-270
+-30.03468871;-51.22269354;149;Rua Antonio Carlos Guimarães;Centro Histórico;Porto Alegre;State of Rio Grande do Sul;Brazil;90050-382
+-30.06000206;-51.2297902;207;Rua José de Alencar;Menino Deus;Porto Alegre;State of Rio Grande do Sul;Brazil;90850-100
+-30.03884168;-51.19910825;62;Rua Domingos José de Almeida;Protásio Alves;Porto Alegre;Rio Grande do Sul;Brazil;90420-200
+-30.00766032;-51.22349544;1;Rua João Ignácio da Oliveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90090-390
+-30.00866102;-51.18959762;257;Rua Dona Leopoldina;São João;Porto Alegre;State of Rio Grande do Sul;Brazil;90550-130
+-30.04242313;-51.25306089;;;;;;;
+-30.06642392;-51.19209283;95;Rua Joaquim Norberto;Partenon;Porto Alegre;State of Rio Grande do Sul;Brazil;90680-300
+-30.04012029;-51.17402488;165;Avenida Senador Tarso Dutra;Petrópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;91310-010
+-30.02268285;-51.22559101;45;Praça Edgar Schneider;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;90030-100
+-30.00594663;-51.24546817;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-29.99853535;-51.24584283;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.02601415;-51.1948209;279;Rua Tenente Coronel Fabricio Pillar;Mont'Serrat;Porto Alegre;Rio Grande do Sul;Brazil;90450-040
+-30.00224394;-51.20383386;2120;Rua Santos Dumont;Navegantes;Porto Alegre;State of Rio Grande do Sul;Brazil;90230-241
+-30.0182302;-51.17089343;122;Rua Azevedo Sodré;Passo d'Areia;Porto Alegre;State of Rio Grande do Sul;Brazil;91340-140
+-30.00869291;-51.22952773;1;Rua João Ignácio da Oliveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.04539502;-51.22133951;121;Avenida Getúlio Vargas;Menino Deus;Porto Alegre;State of Rio Grande do Sul;Brazil;90050-330
+-30.01752591;-51.25535452;1474;Rua Nossa Senho da Boa Viagem;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.00855763;-51.24311313;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.06432895;-51.20806327;386;Rua Oscár Schneider;Medianeira;Porto Alegre;State of Rio Grande do Sul;Brazil;90880-100
+-30.01840446;-51.24709476;1109;Rua Nossa Senho da Boa Viagem;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.04833997;-51.22013324;858;Avenida Ipiranga;Menino Deus;Porto Alegre;State of Rio Grande do Sul;Brazil;90130-030
+-30.05090478;-51.20506969;874;Rua Vicente da Fontoura;Santana;Porto Alegre;State of Rio Grande do Sul;Brazil;90620-130
+-30.06389675;-51.22126833;;;Santa Teresa;Porto Alegre;State of Rio Grande do Sul;Brazil;90450-190
+-30.04229561;-51.25853606;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.00779613;-51.22005764;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.0087204;-51.23298139;1;Rua João Ignácio da Oliveira;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.05239437;-51.17202184;1337;Rua Professor Cristiano Fischer;Jardim Botânico;Porto Alegre;State of Rio Grande do Sul;Brazil;91410-000
+-30.06069503;-51.20897847;76;Avenida Natal;Medianeira;Porto Alegre;State of Rio Grande do Sul;Brazil;90880-110
+-30.01654462;-51.24039175;;;Arquipélago;Porto Alegre;Rio Grande do Sul;Brazil;
+-30.02470954;-51.22708453;;;Centro Histórico;Porto Alegre;State of Rio Grande do Sul;Brazil;90230-270
+-30.07416333;-51.20474543;49;Rua Luíza Rocco;Teresópolis;Porto Alegre;State of Rio Grande do Sul;Brazil;90870-050
+-30.05392834;-51.17315419;6681;Avenida Ipiranga;Jardim Botânico;Porto Alegre;State of Rio Grande do Sul;Brazil;91410-000
