@@ -1,3 +1,5 @@
+CREATE SCHEMA IF NOT EXISTS etl4all;
+USE etl4all;
 CREATE TABLE IF NOT EXISTS address (
     id INT AUTO_INCREMENT,
     latitude VARCHAR(255),

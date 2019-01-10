@@ -1,2 +1,0 @@
--30.04108716;-51.23222954;1568;Avenida Augusto de Carvalho;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90010-390;20180103
--30.06668175;-51.18600466;89;Avenida Veiga;Coronel Aparício Borges;Porto Alegre;State of Rio Grande do Sul;Brazil;90680-570;20180103

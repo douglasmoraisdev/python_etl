@@ -30,8 +30,8 @@ class DatabaseClient:
                                         %s, %s, %s, %s)"
             values = (item["latitude"], item["longitude"],
                       item["street_number"],
-                      item["street_name"], item["district"], item["city"],
-                      item["state"], item["country"], item["postal_code"])
+                      item["street_name"], item["district_name"], item["city_name"],
+                      item["state_name"], item["country_name"], item["postal_code"])
             cursor.execute(sql, values)
 
         self.db.commit()
@@ -48,8 +48,8 @@ class DatabaseClient:
                    pais=%s, cep=%s \
                    WHERE (latitude=%s and longitude=%s)"
             values = (item["street_number"],
-                      item["street_name"], item["district"], item["city"],
-                      item["state"], item["country"], item["postal_code"],
+                      item["street_name"], item["district_name"], item["city_name"],
+                      item["state_name"], item["country_name"], item["postal_code"],
                       item["latitude"], item["longitude"])
             cursor.execute(sql, values)
 

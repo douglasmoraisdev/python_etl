@@ -39,7 +39,7 @@ class WebClient:
 
         # iter results node
         street_number = ''
-        road_name = ''
+        street_name = ''
         district_name = ''
         city_name = ''
         state_name = ''
@@ -60,7 +60,7 @@ class WebClient:
 
                     # road name
                     if 'route' in addr_components['types']:
-                        road_name = addr_components['long_name']
+                        street_name = addr_components['long_name']
 
                     # district name
                     if ('sublocality' in addr_components['types']) or\
@@ -105,7 +105,7 @@ class WebClient:
 
         parsed_address = {
             "street_number": street_number,
-            "road_name": road_name,
+            "street_name": street_name,
             "district_name": district_name,
             "city_name": city_name,
             "state_name": state_name,

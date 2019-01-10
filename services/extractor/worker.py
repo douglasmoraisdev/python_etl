@@ -1,6 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 import os
+import json
 
 import config
 from cachecontrol import CacheControl
@@ -76,12 +77,9 @@ class Worker:
     def __write_extract_file(self, file_name, coords_list):
 
         with open(self.EXTRACTED_PATH+file_name, 'w') as f:
-            for index, item in enumerate(coords_list):
+            # write in json format
+            json.dump(coords_list, f)
 
-                # write in ; separated format
-                f.write(item["latitude"]+';' +
-                        item["longitude"]+';' +
-                        item["timestamp"]+'\n')
 
     # Read all files downloaded
     # Verify for cached files to no process
@@ -123,11 +121,14 @@ class Worker:
                 coords_list = self.__extract_latlong_from_file(
                     file_data, timestamp)
 
+                # remove .txt extension and puts .json
+                json_file_name = file.split('.txt')[0] + '.json'
+
                 # write file in defined format
-                self.__write_extract_file(file, coords_list)
+                self.__write_extract_file(json_file_name, coords_list)
 
                 # update processed files list
-                files_processed.append(file)
+                files_processed.append(json_file_name)
 
             else:
                 print('[%s] %s in cache, no will be processed' %

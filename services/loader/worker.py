@@ -1,6 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 import os
+import json
 
 import config
 from databaseclient import DatabaseClient
@@ -10,27 +11,6 @@ from lookupdbclient import LookupDBClient
 class Worker:
 
     TRANSFORMED_PATH = config.GENERAL['transformed_path']
-
-    # extract data fields from file colums in dict format
-    def __format_address(self, line):
-
-        # split line in colums
-        colums = line.split(';')
-
-        # format address dict
-        address = {
-            "latitude": colums[0].strip(),
-            "longitude": colums[1].strip(),
-            "street_number": colums[2].strip(),
-            "street_name": colums[3].strip(),
-            "district": colums[4].strip(),
-            "city": colums[5].strip(),
-            "state": colums[6].strip(),
-            "country": colums[7].strip(),
-            "postal_code": colums[8].strip()
-        }
-
-        return address
 
     # perform loader logic
     # read transformed files,
@@ -50,28 +30,31 @@ class Worker:
         # iter on file lines
         insert_data_list = []
         update_data_list = []
-        for line in file_data:
 
-            address = self.__format_address(line)
+        with open(work_path+file) as json_file:
 
-            latitude = address['latitude']
-            longitude = address['longitude']
+            file_data = json.load(json_file)
 
-            # verify coordenates already exist on lookup database
-            # if exists, add to UPDATE list
-            if lookupdb.latlong_exists(latitude, longitude):
+            for item in file_data:
 
-                # append to update list
-                update_data_list.append(address)
+                latitude = item['latitude']
+                longitude = item['longitude']
 
-            # if not exists, add to INSERT list
-            else:
+                # verify coordenates already exist on lookup database
+                # if exists, add to UPDATE list
+                if lookupdb.latlong_exists(latitude, longitude):
 
-                # update the lookup database
-                lookupdb.insert_laglong(latitude, longitude)
+                    # append to update list
+                    update_data_list.append(item)
 
-                # append colums to list of insert
-                insert_data_list.append(address)
+                # if not exists, add to INSERT list
+                else:
+
+                    # update the lookup database
+                    lookupdb.insert_laglong(latitude, longitude)
+
+                    # append colums to list of insert
+                    insert_data_list.append(item)
 
         # show total inserts and updates generated
         print("[%s] %s insert_data [%s]" %

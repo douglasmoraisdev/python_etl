@@ -1,3 +1,0 @@
--30.04982864;-51.20150245;405;Rua Monsenhor Veras;Santana;Porto Alegre;State of Rio Grande do Sul;Brazil;90610-010;20180101
--30.06761588;-51.23976111;4496;Avenida Edvaldo Pereira Paiva;Praia de Belas;Porto Alegre;State of Rio Grande do Sul;Brazil;90110-060;20180101
--30.05596474;-51.17286827;6466;Avenida Ipiranga;Jardim Botânico;Porto Alegre;State of Rio Grande do Sul;Brazil;91530-001;20180101

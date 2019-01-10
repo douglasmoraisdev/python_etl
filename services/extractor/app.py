@@ -42,18 +42,14 @@ def pre_execute(config):
 # 1 - download ftp files
 # 2 - processed files downloaded
 # 3 - warn progress to transformer service
-def worker(ftp_client, message_broker, worker, loop=True):
+def worker(ftp_client, message_broker, worker, loop=False):
 
     total_errors = 0
 
     # Runs until total_errors reached
-    while True:
+    while total_errors < MAX_GENERAL_ERRORS:
 
         print(' ==========> Cycle start -', os.getpid())
-
-        if total_errors >= MAX_GENERAL_ERRORS:
-            print('max error reached')
-            break
 
         # flow
         try:
@@ -78,7 +74,8 @@ def worker(ftp_client, message_broker, worker, loop=True):
         else:
             break
 
-
+    else:
+        print('max error reached')
 
             
 # Run the subprocess workers

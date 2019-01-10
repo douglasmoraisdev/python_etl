@@ -1,0 +1,7 @@
+
+
+rabbitmqctl purge_queue extracted
+rabbitmqctl purge_queue transformed
+
+
+DELETE FROM address;

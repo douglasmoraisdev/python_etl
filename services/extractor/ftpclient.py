@@ -52,6 +52,8 @@ class FtpClient:
         # list ftp dir
         file_names = self.__list_ftp_files()
 
+        print('Files found for download: %s' % file_names)
+
         # iter over ftp home dir records (paths, ., .., files)
         for file in file_names:
 
