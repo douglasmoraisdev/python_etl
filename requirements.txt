@@ -7,3 +7,5 @@ requests
 pymongo
 redis
 mock
+pandas
+sqlalchemy

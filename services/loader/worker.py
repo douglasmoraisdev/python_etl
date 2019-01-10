@@ -4,8 +4,9 @@ import os
 import json
 
 import config
-from databaseclient import DatabaseClient
+from models.databaseclient import DatabaseClient
 from lookupdbclient import LookupDBClient
+from models.address_model import Address
 
 
 class Worker:
@@ -16,6 +17,9 @@ class Worker:
     # read transformed files,
     # send to database, update or insert depending on previous inserted data
     def load(self, file):
+
+        #table
+        dbtable = Address
 
         # instance final database
         dbclient = DatabaseClient()
@@ -63,5 +67,5 @@ class Worker:
               (os.getpid(), file, len(update_data_list)))
 
         # persist data, do bulk inserts and updates
-        dbclient.insert_data(insert_data_list)
-        dbclient.update_data(update_data_list)
+        dbclient.bulk_insert_data(insert_data_list, Address)
+        # dbclient.update_data(update_data_list)
