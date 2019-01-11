@@ -50,7 +50,7 @@ def worker(ch, method, properties, body, total_errors=0):
 
     # flow
     try:
-        worker.transform(file)
+        # worker.transform(file)
         ch.basic_ack(delivery_tag=method.delivery_tag)
 
         message_broker.warn_loader(file)

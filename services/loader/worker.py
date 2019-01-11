@@ -18,9 +18,6 @@ class Worker:
     # send to database, update or insert depending on previous inserted data
     def load(self, file):
 
-        #table
-        dbtable = Address
-
         # instance final database
         dbclient = DatabaseClient()
         # instance auxiliar lookup database
@@ -68,4 +65,4 @@ class Worker:
 
         # persist data, do bulk inserts and updates
         dbclient.bulk_insert_data(insert_data_list, Address)
-        # dbclient.update_data(update_data_list)
+        dbclient.bulk_update_data(update_data_list, Address)

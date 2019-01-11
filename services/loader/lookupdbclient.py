@@ -11,7 +11,6 @@ class LookupDBClient:
     DATABASE = config.LOOKUP_DB['database']
 
     # Create lookup database connection object
-    # init latlong_list, used for in-memory compare
     def __init__(self):
 
         username = self.USERNAME
@@ -23,15 +22,7 @@ class LookupDBClient:
                                   )
         self.db = self.client[self.DATABASE]
 
-        self.latlong_list = []
 
-    # load all latitudes and longitudes on database
-    # for in-memory lookup compare
-    def __load_latlong(self):
-
-        # iter all coords on lookup database and add to list in tuple format
-        for item in self.db.latlong.find({}):
-            self.latlong_list.append((item["latitude"], item["longitude"]))
 
     # insert a new latitude+longitude pair record on lookup database
     def insert_laglong(self, latitude, longitude):
@@ -46,7 +37,6 @@ class LookupDBClient:
     # verify the latitude/longitude already exists on lookup database
     def latlong_exists(self, latitude, longitude):
 
-        if len(self.latlong_list) == 0:
-            self.__load_latlong()
+        coord = self.db.latlong.find_one({'latitude': latitude, 'longitude': longitude})
 
-        return (latitude, longitude) in self.latlong_list
+        return coord is not None

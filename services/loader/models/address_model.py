@@ -16,6 +16,7 @@ class Address(Base):
     state_name = Column(String)
     country_name = Column(String)
     postal_code = Column(String)
+    timestamp = Column(String)
 
     def __repr__(self):
        return "<User(latitude='%s', rua='%s', bairro='%s')>" % (
