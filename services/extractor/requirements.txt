@@ -1,0 +1,11 @@
+psycopg2-binary
+python-daemon
+pika
+mysql-connector
+ftputil
+requests
+pymongo
+redis
+mock
+pandas
+sqlalchemy

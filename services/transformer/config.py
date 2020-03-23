@@ -7,7 +7,7 @@ GENERAL = {
 
 GOOGLE_MAPS = {
     "geocode_api_url": "https://maps.googleapis.com/maps/api/geocode/json",
-    "api_key": "AIzaSyAPqlDhdKGmxjaWWxj1EcpmbPV5LNhwW7c"
+    "api_key": "<your_google_api_key>"
 }
 
 MESSAGE_BROKER = {
